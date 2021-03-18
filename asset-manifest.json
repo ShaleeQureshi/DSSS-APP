@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DSSS-APP/static/css/main.bbd4ad4c.chunk.css",
+    "main.js": "/DSSS-APP/static/js/main.7291597a.chunk.js",
+    "main.js.map": "/DSSS-APP/static/js/main.7291597a.chunk.js.map",
+    "runtime-main.js": "/DSSS-APP/static/js/runtime-main.3c83a2ca.js",
+    "runtime-main.js.map": "/DSSS-APP/static/js/runtime-main.3c83a2ca.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/DSSS-APP/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.658e2dd9.chunk.js": "/DSSS-APP/static/js/2.658e2dd9.chunk.js",
+    "static/js/2.658e2dd9.chunk.js.map": "/DSSS-APP/static/js/2.658e2dd9.chunk.js.map",
+    "index.html": "/DSSS-APP/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/DSSS-APP/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bbd4ad4c.chunk.css.map": "/DSSS-APP/static/css/main.bbd4ad4c.chunk.css.map",
+    "static/js/2.658e2dd9.chunk.js.LICENSE.txt": "/DSSS-APP/static/js/2.658e2dd9.chunk.js.LICENSE.txt",
+    "static/media/font.css": "/DSSS-APP/static/media/Kanit-Light.68ccb9c4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c83a2ca.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.658e2dd9.chunk.js",
+    "static/css/main.bbd4ad4c.chunk.css",
+    "static/js/main.7291597a.chunk.js"
+  ]
+}
