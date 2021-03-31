@@ -1,0 +1,22 @@
+.wrapper {
+  min-height: 100vh;
+  padding-bottom: 100px;
+}
+.footer {
+  background-color: #191919;
+  p {
+    margin: auto;
+    color: white;
+    opacity: 0.5;
+  }
+}
+.box-shadow-list {
+  background-color: aliceblue;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+}
+
+#modal {
+  max-width: fit-content;
+}

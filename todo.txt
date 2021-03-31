@@ -1,0 +1,4 @@
+- finish profile
+- DB edits
+- query DB from home
+- style
